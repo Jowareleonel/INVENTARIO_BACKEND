@@ -151,8 +151,9 @@ async def iniciar_sesion(user:User):
 
         if usuario:
             print("Inicio de sesión exitoso. ¡Bienvenido,", usuario[1] + "!")  # usuario[1] es el campo "nombre"
+            return "sucess"  # usuario[1] es el campo "nombre"
         else:
-            print("Credenciales incorrectas. Por favor, verifique su nombre de usuario y contraseña.")
+            return "Credenciales incorrectas. Por favor, verifique su nombre de usuario y contraseña."
 
     except sqlite3.Error as e:
         print("Error durante el inicio de sesión:", e)
