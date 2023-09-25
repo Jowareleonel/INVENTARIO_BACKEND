@@ -1,5 +1,4 @@
 typing
-fastapi.middleware.cors
 json 
 fastapi
 uvicorn
