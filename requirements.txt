@@ -1,5 +1,4 @@
-typing
-json 
+typing 
 fastapi
 uvicorn
 
