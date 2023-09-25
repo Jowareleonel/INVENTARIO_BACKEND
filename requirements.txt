@@ -1,0 +1,7 @@
+typing
+sqlite3
+fastapi.middleware.cors
+json 
+fastapi
+uvicorn
+
