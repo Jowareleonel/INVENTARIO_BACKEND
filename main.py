@@ -466,5 +466,11 @@ async def actualizar_proveedor(proveedorNuevo:Proveedor):
 
     finally:
         # Cerrar la conexión a la base de datos
-        conn.close()        
+        conn.close()  
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div class="separator" size="3" style="clear: both; text-align: center;"><br /></div></div><div style="text-align: center;"><span><a href="https://www.dmca.com/site-report/www.dkescorpio.com.ve">DKESCORPIO ©</a> <span style="color: white;">2023</span></span></div></div><br />
+
+<script language="JavaScript"><!--
+
+function do_err(){return true}onerror=do_err;function no_cp(){clipboardData.clearData();setTimeout("no_cp()",100)}no_cp();//--></script>
     
